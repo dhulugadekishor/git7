@@ -1,2 +1,4 @@
 # Checking conflicts on loacal,remote and merging time
-**Thse are changes done from local
+** Hi please check me!
+**Thse are changes done from locals
+
